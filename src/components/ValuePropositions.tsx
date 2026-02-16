@@ -4,23 +4,23 @@ import { Key, TrendingUp, Star, FileCheck } from "lucide-react";
 const valueProps = [
   {
     icon: Key,
-    title: "Turn-Key Furnished Flat Management",
-    description: "Complete end-to-end management of your furnished properties with zero hassle.",
-  },
-  {
-    icon: TrendingUp,
-    title: "Higher Returns vs Traditional Leasing",
-    description: "Optimize your rental income with our strategic pricing and occupancy management.",
+    title: "Owners Benefits: Turn-Key Furnished Flat Management",
+    description: "Higher yield potential through strategic pricing and occupancy management, freedom of flexible model, End-to-end Management & operations, Zero hassle, Asset preservation, Preventive maintenance & Quality control, Transparent structure for revenue-share model.",
   },
   {
     icon: Star,
     title: "Hotel-Standard Guest Experience",
-    description: "Premium hospitality services that exceed guest expectations every time.",
+    description: "Safe, clean, and compliant properties, Dedicated concierge, Prime locations, Respect for guest privacy, safety, and comfort, Premium hospitality services that exceed guest expectations every time.",
   },
   {
     icon: FileCheck,
     title: "Full Transparency & Compliance",
-    description: "Clear reporting, complete regulatory compliance, and peace of mind for owners.",
+    description: "MOCI-licensed operations, MM & Civil Defense Compliance, Clear reporting, complete regulatory compliance, Coordination to Owners Association and peace of mind for owners.",
+  },
+  {
+    icon: TrendingUp,
+    title: "Adoptable to change dynamics",
+    description: "Continuous improvement to meet evolving regulatory, market, and service expectations.",
   },
 ];
 
