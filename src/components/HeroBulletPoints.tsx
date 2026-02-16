@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Heart, Building, Shield } from "lucide-react";
 
 const bulletPoints = [
-  { icon: Heart, text: "Customer-first service" },
+  { icon: Heart, text: "Customer-first philosophy" },
   { icon: Building, text: "Hospitality-grade operations" },
   { icon: Shield, text: "Full regulatory compliance in Qatar" },
 ];
