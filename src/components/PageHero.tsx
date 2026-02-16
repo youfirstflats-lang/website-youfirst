@@ -15,7 +15,7 @@ export function PageHero({
   backgroundImage,
   title,
   subtitle,
-  badge = "Premium Property Management",
+  badge = "Furnished Property Management & Operations",
   children,
   className,
 }: PageHeroProps) {
