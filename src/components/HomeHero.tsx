@@ -6,7 +6,7 @@ import { UserCheck, Star, Shield, ArrowRight, Building2 } from "lucide-react";
 import heroReceptionist from "@/assets/hero-receptionist.png";
 const trustPoints = [{
   icon: UserCheck,
-  text: "Customer-first service"
+  text: "Customer-first philosophy"
 }, {
   icon: Star,
   text: "Hospitality-grade operations"
