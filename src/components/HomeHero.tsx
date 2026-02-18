@@ -185,7 +185,7 @@ export function HomeHero() {
               }} className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-background/90 backdrop-blur-sm border border-border/60 shadow-sm w-fit mb-6">
                 <span className="w-2 h-2 rounded-full bg-primary animate-pulse" />
                 <span className="text-xs font-medium text-muted-foreground tracking-wide uppercase">
-                  Premium Property Management
+                  Premium Living, Managed & Operated to Perfection
                 </span>
               </motion.div>
 
