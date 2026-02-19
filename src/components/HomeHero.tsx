@@ -63,7 +63,7 @@ export function HomeHero() {
               duration: 0.4
             }} className="absolute top-4 left-4 inline-flex items-center gap-2 px-3.5 py-2 rounded-full bg-white/95 backdrop-blur-sm shadow-lg border border-white/50">
               <span className="w-2 h-2 rounded-full bg-primary animate-pulse" />
-              <span className="text-xs font-semibold text-foreground">Premium Property Management</span>
+              <span className="text-xs font-semibold text-foreground">Premium Living, Operated to Perfection</span>
             </motion.div>
 
             {/* Content overlay at bottom of image */}
@@ -185,7 +185,7 @@ export function HomeHero() {
               }} className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-background/90 backdrop-blur-sm border border-border/60 shadow-sm w-fit mb-6">
                 <span className="w-2 h-2 rounded-full bg-primary animate-pulse" />
                 <span className="text-xs font-medium text-muted-foreground tracking-wide uppercase">
-                  Premium Living, Managed & Operated to Perfection
+                  Premium Living, Operated to Perfection
                 </span>
               </motion.div>
 
